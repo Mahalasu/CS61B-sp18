@@ -43,6 +43,7 @@ ehthumbs.db
 ehthumbs_vista.db
 Desktop.ini
 $RECYCLE.BIN/
+*.idea
 *.cab
 *.msi
 *.msm
